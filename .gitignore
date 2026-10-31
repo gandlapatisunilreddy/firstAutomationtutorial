@@ -1,0 +1,15 @@
+# Maven generated files
+target/
+
+# Old Git history backup
+.git_old_backup/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Generated classpath file
+classpath.txt
+
+# GitHub tooling files
+.github/
